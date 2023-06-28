@@ -1,1 +1,1 @@
-# DesignPatterns.Demo
+# 此项目包含23种设计模式的Demo
