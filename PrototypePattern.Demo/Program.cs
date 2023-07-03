@@ -9,7 +9,8 @@ namespace PrototypePattern.Demo
     {
         static void Main(string[] args)
         {
-
+            ImplementPrototype prototype = new ImplementPrototype();
+            ImplementPrototype prototypeClone = (ImplementPrototype)prototype.Clone();
         }
     }
 }
